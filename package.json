@@ -1,0 +1,23 @@
+{
+  "name": "01-time-stamp-micro-service",
+  "version": "1.0.0",
+  "description": "first back end freeCodeCamp challenge",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "microservice",
+    "fcc",
+    "date-time"
+  ],
+  "author": "tdm",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.3",
+    "express": "^4.15.3",
+    "nodemon": "^1.11.0"
+  }
+}
