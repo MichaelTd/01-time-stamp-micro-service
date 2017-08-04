@@ -1,0 +1,5 @@
+
+# Leave out samples and playground files
+other/*
+# Leave out node deps
+node_modules/*
